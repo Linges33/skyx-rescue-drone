@@ -1,0 +1,13 @@
+Component,Part / Specification,Qty,Approx Cost (INR),Sourcing
+"Frame, motors, ESCs",Holybro X500 V2 kit (500 mm),1,18000,Import
+Flight controller,Pixhawk 6C (PX4) + power module,1,22000,Import
+Edge AI computer,NVIDIA Jetson Orin Nano,1,30000,Import
+Thermal camera,FLIR Lepton 3.5 + breakout,1,25000,Import
+RGB camera,IMX477 HQ camera,1,5500,Domestic
+Distance sensor,Benewake TFmini-S,1,4000,Domestic
+GPS + compass,M9N GPS module,1,6000,Domestic
+Telemetry radio,865-867 MHz radio pair,1,6000,Domestic
+Battery,4S 5000 mAh LiPo,1,6000,Local
+Charger,LiPo balance charger,1,6000,Local
+"Power and misc.","12 V buck converter, fuse, wiring, Wi-Fi adapter, 3D-printed mounts",1,6000,Local
+Total (estimated),,,134500,
